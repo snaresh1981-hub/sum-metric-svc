@@ -1,0 +1,22 @@
+{
+	"ImportPath": "slb-swt.visualstudio.com/nimbus/_git/sum-metric-svc",
+	"GoVersion": "go1.9",
+	"GodepVersion": "v80",
+	"Deps": [
+		{
+			"ImportPath": "github.com/gorilla/mux",
+			"Comment": "v1.7.4",
+			"Rev": "75dcda0896e109a2a22c9315bca3bb21b87b2ba5"
+		},
+		{
+			"ImportPath": "github.com/rs/cors",
+			"Comment": "v1.7.0-6-g6c08711",
+			"Rev": "6c08711d4f11e1c72361062ed154e572b0065751"
+		},
+		{
+			"ImportPath": "github.com/unrolled/secure",
+			"Comment": "v1.0.7",
+			"Rev": "d3010134ffc20b6c5d7aeddd8bba8828d9aa4826"
+		}
+	]
+}
